@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning **Everything**
 
-💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, Redux and C/C++**
+💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, Redux, Mui, Tailwind Css, Html, Css, and C/C++**
 	
 💪🏼 I'm open to collaborating on interesting projects.
 
