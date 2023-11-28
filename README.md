@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed amine saoud</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<p align="right"> <img width="100%" maxHeight="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="msaoud1337" /> </p>
+<p align="center"> <img width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="msaoud1337" /> </p>
 
-- 🌱 I’m currently learning **React/Next**
+- 🌱 I’m currently learning **React/Next** 
 
 - 👨‍💻 All of my projects are available at [https://msaoud-portfolio-v1.vercel.app/](https://msaoud-portfolio-v1.vercel.app/)
 
