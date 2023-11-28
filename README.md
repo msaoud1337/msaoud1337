@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed amine saoud</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
-<p align="right" width="400"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="msaoud1337" /> </p>
+<p align="right"> <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="msaoud1337" /> </p>
 
 - 🌱 I’m currently learning **React/Next**
 
