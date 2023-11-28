@@ -13,9 +13,9 @@ Passionate React/Next.js developer with a love for clean and efficient code. I s
 Here's a diverse set of technologies and tools I work with:
 
 - Frontend Development:
-  - React.js ⚛
+  - React.js
   - Next.js 
-  - HTML5/CSS3 💻
+  - HTML5/CSS3
   - Mui v5
   - Tailwind
   - PostMan
