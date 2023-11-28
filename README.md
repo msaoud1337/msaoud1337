@@ -1,54 +1,50 @@
 # Hi there! 👋
 
-I'm [Your Name], a passionate [Your Role/Title] from [Your Location].
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+I'm Mohamed amine saoud, a passionate Front end Developer from Khouribga/Morocco.
 
 ## About Me
 
-Briefly describe yourself, your background, and what you're passionate about. Highlight your skills and areas of expertise.
+Passionate React/Next.js developer with a love for clean and efficient code. I specialize in crafting user-centric experiences and building robust web applications. From turning wireframes into responsive UIs to optimizing performance, I thrive on transforming ideas into reality. Eager to contribute my skills and collaborate on exciting projects.
 
 ## 🔧 Technologies & Tools
 
-List the technologies, programming languages, and tools you're proficient in. You can use icons or badges for better visual appeal.
+Here's a diverse set of technologies and tools I work with:
 
-- Tech 1
-- Tech 2
-- Tech 3
+- Frontend Development:
+  - React.js ⚛
+  - Next.js 
+  - HTML5/CSS3 💻
+  - Mui v5
+  - Tailwind
+  - PostMan
+  - JavaScript/ES6 
+  - C
+  - Redux 
+  - Redux Thunk
+  - Git/GitHub 
+  - npm 
+  - Yarn 
+  - VS Code 
+  - Responsive Design 
 
 ## 🌱 Currently Learning
 
-Share what you're currently learning or exploring in your tech journey.
+I am deeply passionate about front-end development with a focus on React.js and Next.js. Every day, I challenge myself to explore new concepts, tackle complex problems, and stay updated on the latest trends in web development. This continuous learning journey fuels my commitment to becoming a better front-end developer, pushing the boundaries of what I can achieve in crafting seamless and engaging user experiences. I believe that the key to mastery lies in the pursuit of constant improvement, and I am excited about the challenges and discoveries that lie ahead on my coding adventures.
+
 
 ## 📫 How to Reach Me
 
-Provide links to your social media profiles, email, or any other preferred method of contact.
+- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/mohamed-amine-saoud-63ab12249/))
+- [Email](mailto:medaminesaoud8020@gmail.com)
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:you@example.com)
-
-## 💼 Professional Experience
-
-Briefly highlight your work experience and any key accomplishments.
-
-- Job Title at Company | Date Range
-- Job Title at Company | Date Range
 
 ## 🌐 My GitHub Stats
 
 Include a GitHub stats card to showcase your contributions and activity.
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs)
-
-## 🚀 My Projects
-
-Highlight a few of your notable projects with brief descriptions and links.
-
-1. [Project 1](https://github.com/yourusername/project1): Short description.
-2. [Project 2](https://github.com/yourusername/project2): Short description.
-
-## 🌟 My Interests
-
-Share your interests outside of coding. It could be hobbies, books, or anything that gives a personal touch.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaoud1337&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## 🤝 Let's Connect
 
