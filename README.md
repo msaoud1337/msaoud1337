@@ -33,18 +33,10 @@ Here's a diverse set of technologies and tools I work with:
 
 I am deeply passionate about front-end development with a focus on React.js and Next.js. Every day, I challenge myself to explore new concepts, tackle complex problems, and stay updated on the latest trends in web development. This continuous learning journey fuels my commitment to becoming a better front-end developer, pushing the boundaries of what I can achieve in crafting seamless and engaging user experiences. I believe that the key to mastery lies in the pursuit of constant improvement, and I am excited about the challenges and discoveries that lie ahead on my coding adventures.
 
-
 ## 📫 How to Reach Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/mohamed-amine-saoud-63ab12249/))
+- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-saoud-63ab12249/)
 - [Email](mailto:medaminesaoud8020@gmail.com)
-
-
-## 🌐 My GitHub Stats
-
-Include a GitHub stats card to showcase your contributions and activity.
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=msaoud1337&show_icons=true&count_private=true&hide=contribs,prs)
 
 ## 🤝 Let's Connect
 
