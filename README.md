@@ -10,7 +10,6 @@ Passionate React/Next.js developer with a love for clean and efficient code. I s
 
 ## 🔧 Technologies & Tools
 
-Technologies and Tools I Work With:
  React.js, React Native, Next.js, Remix.js, JavaScript (ES6+), C, HTML5, CSS3, MUI v5, Tailwind CSS, Responsive Design, Redux, Redux Thunk, Git, GitHub, npm, Yarn, VS Code.
 
 ## 🌱 Currently Learning
