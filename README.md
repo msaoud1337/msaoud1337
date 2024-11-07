@@ -32,3 +32,17 @@ I am deeply passionate about front-end development with a focus on React.js and 
 
 Feel free to reach out! I'm always open to collaborations and discussions.
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msaoud1337&theme=dracula" />
+  <br/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msaoud1337&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msaoud1337&theme=dracula"/>
+  <br/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msaoud1337&theme=dracula"/>
+  <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msaoud1337&theme=dracula"/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msaoud1337&theme=dracula&hide=c)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
