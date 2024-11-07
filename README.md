@@ -10,24 +10,14 @@ Passionate React/Next.js developer with a love for clean and efficient code. I s
 
 ## 🔧 Technologies & Tools
 
-Here's a diverse set of technologies and tools I work with:
-
-- Frontend Development:
-  - React.js
-  - Next.js 
-  - HTML5/CSS3
-  - Mui v5
-  - Tailwind
-  - PostMan
-  - JavaScript/ES6 
-  - C
-  - Redux 
-  - Redux Thunk
-  - Git/GitHub 
-  - npm 
-  - Yarn 
-  - VS Code 
-  - Responsive Design 
+Technologies and Tools I Work With:
+	•	Frontend Frameworks: React.js, Next.js, Remix.js
+	•	Styling: HTML5, CSS3, MUI v5, Tailwind CSS, Responsive Design
+	•	Programming Languages: JavaScript (ES6+), C
+	•	State Management: Redux, Redux Thunk
+	•	Version Control: Git, GitHub
+	•	Package Managers: npm, Yarn
+	•	Development Environment: VS Code
 
 ## 🌱 Currently Learning
 
