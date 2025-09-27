@@ -6,20 +6,21 @@ I'm Mohamed amine saoud, a passionate Front end Developer from Khouribga/Morocco
 
 ## About Me
 
-Passionate React/Next.js developer with a love for clean and efficient code. I specialize in crafting user-centric experiences and building robust web applications. From turning wireframes into responsive UIs to optimizing performance, I thrive on transforming ideas into reality. Eager to contribute my skills and collaborate on exciting projects.
+Full Stack Web Developer with a strong frontend foundation and growing backend expertise. Skilled at building responsive, user-focused interfaces while also developing robust server-side logic, APIs, and database integrations. Passionate about crafting seamless end-to-end experiences, solving complex problems, and writing clean, maintainable code. Adaptable.
 
 ## 🔧 Technologies & Tools
 
- React.js, React Native, Next.js, Remix.js, JavaScript (ES6+), C, HTML5, CSS3, MUI v5, Tailwind CSS, Responsive Design, Redux, Redux Thunk, Git, GitHub, npm, Yarn, VS Code.
+ React.js, React Native, Next.js, Remix.js, Python, FastApi, Python Celery, Redis, JavaScript (ES6+), C, HTML5, CSS3, MUI v5, Tailwind CSS, Responsive Design, Redux, Redux Thunk, Git, GitHub, npm, Yarn, VS Code.
 
 ## 🌱 Currently Learning
 
-I am deeply passionate about front-end development with a focus on React.js and Next.js. Every day, I challenge myself to explore new concepts, tackle complex problems, and stay updated on the latest trends in web development. This continuous learning journey fuels my commitment to becoming a better front-end developer, pushing the boundaries of what I can achieve in crafting seamless and engaging user experiences. I believe that the key to mastery lies in the pursuit of constant improvement, and I am excited about the challenges and discoveries that lie ahead on my coding adventures.
+I am passionate about full-stack development and building end-to-end web solutions. My current focus includes React.js and Next.js on the front end, with growing expertise in back-end technologies to deliver complete applications.
 
+I’m also exploring AI-driven automation and intelligent agents, aiming to integrate machine-learning tools into practical web and business solutions. Each day I dive into new concepts, solve complex problems, and stay updated on emerging trends in both web development and artificial intelligence. This constant learning fuels my commitment to creating scalable, intelligent systems and to advancing as a versatile developer.
 ## 📫 How to Reach Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-saoud-63ab12249/)
-- [Email](mailto:medaminesaoud8020@gmail.com)
+- [Email](mailto:medsaoud.amine@gmail.com)
 
 ## 🤝 Let's Connect
 
